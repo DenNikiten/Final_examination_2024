@@ -1,0 +1,8 @@
+xpath:
+  LOCATOR_LOGIN_FIELD: //*[@id="login"]/div[1]/label/input
+  LOCATOR_PASS_FIELD: //*[@id="login"]/div[2]/label/input
+  LOCATOR_ABOUT_BTN: //a[@href="/about"]
+  LOCATOR_TITLE_ABOUT_FIELD: //h1[@class="svelte-z9xc0"]
+css:
+  LOCATOR_LOGIN_BTN: button
+  LOCATOR_USER_NAME_FIELD: ul.svelte-1rc85o5 > li:last-child a

@@ -1,0 +1,18 @@
+2024-04-22 18:22:09 INFO ====== WebDriver manager ======
+2024-04-22 18:22:09 INFO Get LATEST chromedriver version for google-chrome
+2024-04-22 18:22:09 INFO Get LATEST chromedriver version for google-chrome
+2024-04-22 18:22:10 INFO Get LATEST chromedriver version for google-chrome
+2024-04-22 18:22:11 INFO WebDriver version 124.0.6367.60 selected
+2024-04-22 18:22:11 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.60/linux64/chromedriver-linux64.zip
+2024-04-22 18:22:11 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.60/linux64/chromedriver-linux64.zip
+2024-04-22 18:22:11 INFO Driver downloading response is 200
+2024-04-22 18:22:13 INFO Get LATEST chromedriver version for google-chrome
+2024-04-22 18:22:14 INFO Driver has been saved in cache [/home/dan/.wdm/drivers/chromedriver/linux64/124.0.6367.60]
+2024-04-22 18:22:16 INFO Test auth login Starting
+2024-04-22 18:22:19 INFO Save screenshot
+2024-04-22 18:22:21 INFO Test About page Starting
+2024-04-22 18:22:21 INFO Save screenshot
+2024-04-22 18:22:22 INFO Test Check font in title window Starting
+2024-04-22 18:22:22 INFO Get font size text
+2024-04-22 18:22:22 INFO 32px
+2024-04-22 18:22:22 INFO Save screenshot
